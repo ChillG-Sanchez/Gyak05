@@ -1,0 +1,15 @@
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/bin/Debug/net7.0/VonatokCS
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/bin/Debug/net7.0/VonatokCS.deps.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/bin/Debug/net7.0/VonatokCS.runtimeconfig.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/bin/Debug/net7.0/VonatokCS.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/bin/Debug/net7.0/VonatokCS.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.csproj.AssemblyReference.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.AssemblyInfoInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.AssemblyInfo.cs
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.csproj.CoreCompileInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/refint/VonatokCS.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/VonatokCS.genruntimeconfig.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/VonatokCS/VonatokCS/obj/Debug/net7.0/ref/VonatokCS.dll
